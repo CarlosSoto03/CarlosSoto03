@@ -3,7 +3,6 @@
 
 - 📚 I´ currently studtying Web Development
 - 🌱 I’m currently learning JavaScript, Typescript and Python
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: sotoalonso15@gmail.com
 
 <div align="left">
