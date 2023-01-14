@@ -1,19 +1,10 @@
 ### Hi I'm Carlos Soto
 
-<!--
-**CarlosSoto03/CarlosSoto03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 📚 I´ currently studtying Web Development
+- 🌱 I’m currently learning JavaScript, Typescript and Python
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: sotoalonso15@gmail.com
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
@@ -31,6 +22,8 @@ Here are some ideas to get you started:
         alt="MySQL" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"
         alt="PHP" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"
+        alt="GIT" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"
         alt="GIT" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"
