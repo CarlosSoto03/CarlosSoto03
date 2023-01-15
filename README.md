@@ -32,4 +32,4 @@
 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosSoto03&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api/?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api/?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27)
