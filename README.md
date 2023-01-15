@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="200">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
 
 ### Hi I'm Carlos Soto
 
