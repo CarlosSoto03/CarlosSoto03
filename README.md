@@ -32,4 +32,5 @@
 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosSoto03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
