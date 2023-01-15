@@ -32,4 +32,4 @@
 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosSoto03&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Carlos Sto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=radical)
+![Carlos Soto's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSoto03&show_icons=true&theme=radical)
