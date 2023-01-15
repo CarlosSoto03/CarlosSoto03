@@ -33,5 +33,5 @@
 
 <p align = "center">
     <img  src = "https://github-readme-stats-sigma-five.vercel.app/api/?username=CarlosSoto03&show_icons=true&theme=dark&line_height=27">
-    <img  src = "https://github-readme-stats-sigma-five.vercel.app/api//top-langs/?username=CarlosSoto03&show=css,scss&theme=tokyonight">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
