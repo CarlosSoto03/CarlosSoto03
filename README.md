@@ -32,6 +32,5 @@
 📊 My stats:
 
 <p align = "center">
-  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api/?username=CarlosSoto03&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api//top-langs/?username=CarlosSoto03&hide=css,scss&theme=tokyonight">
+  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api/?username=CarlosSoto03&show_icons=true&theme=dark&line_height=27">
 </p>
