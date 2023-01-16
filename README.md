@@ -33,4 +33,9 @@
 
 📊 My stats:
 
+<p align = "center">
+  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api/?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api//top-langs/?username=MarcoteRL&hide=css,scss&theme=tokyonight">
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosSoto03&theme=dark&hide_border=true)](https://git.io/streak-stats)
