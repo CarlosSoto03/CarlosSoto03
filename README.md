@@ -3,7 +3,7 @@
 ### Hi I'm Carlos Soto
 
 
-- 📚 I´ currently studtying Web Development
+- 📚 I´ currently studying Web Development
 - 🌱 I’m currently learning JavaScript, Typescript and Python
 - 📫 How to reach me: sotoalonso15@gmail.com
 
