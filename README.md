@@ -1,4 +1,4 @@
-<image src="https://giphy.com/embed/2IudUHdI075HL02Pkk"></image>
+<image src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 
 - 📚 I´ currently studying Web Development
