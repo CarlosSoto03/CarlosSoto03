@@ -1,7 +1,7 @@
 <image src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 
-- 📚 I´ currently studying Web Development
+- 📚 I´m currently studying Web Development
 - 🌱 I’m currently learning JavaScript, Typescript and Python
 - 📫 How to reach me: sotoalonso15@gmail.com
 
